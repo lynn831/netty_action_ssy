@@ -16,6 +16,7 @@ dependencies {
         "junit:junit:4.12"
     )
     compile (
-        'io.netty:netty-all:4.1.10.Final'
+        'io.netty:netty-all:4.1.10.Final',
+        'org.projectlombok:lombok:1.16.20'
         )
 }
